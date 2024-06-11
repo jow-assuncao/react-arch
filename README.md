@@ -153,7 +153,7 @@ Esta documento descreve a estrutura de pastas recomendada para projetos React, v
 
 **App.tsx:** Componente raiz da aplicação, onde geralmente são configurados provedores de estado e rotas principais.
 
-**index.ts:** Ponto de entrada da aplicação React. Este arquivo renderiza o componente App na árvore DOM.
+**index/main.tsx:** Ponto de entrada da aplicação React. Este arquivo renderiza o componente App na árvore DOM.
 
 **reportWebVitals.ts:** Utilizado para medir a performance da aplicação (opcional).
 
