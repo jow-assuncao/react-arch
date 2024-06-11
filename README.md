@@ -5,7 +5,6 @@ Esta documento descreve a estrutura de pastas recomendada para projetos React, v
 ### Raiz do Projeto
 
 ```
-Copiar código
 /my-react-app
 ├── public
 ├── src
