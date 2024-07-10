@@ -160,8 +160,8 @@ Esta documento descreve a estrutura de pastas recomendada para projetos React, v
 **setupTests.ts:** Configuração para testes, utilizado pelo Jest (opcional).
 
 **Arquivos de Configuração e Metadados**
-.gitignore: Lista de arquivos e pastas que o Git deve ignorar.
-package.json: Contém metadados do projeto e dependências.
-README.md: Documentação do projeto.
-CHANGELOG.md: Detalhes do versionamento do projeto.
-package-lock.json: Lockfile de dependências, gerado automaticamente pelo gerenciador de pacotes.
+- .gitignore: Lista de arquivos e pastas que o Git deve ignorar.
+- package.json: Contém metadados do projeto e dependências.
+- README.md: Documentação do projeto.
+- CHANGELOG.md: Detalhes do versionamento do projeto.
+- package-lock.json: Lockfile de dependências, gerado automaticamente pelo gerenciador de pacotes.
